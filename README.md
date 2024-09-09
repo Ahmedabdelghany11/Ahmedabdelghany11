@@ -91,3 +91,11 @@ I am always seeking for every opportunity that can help me to improve my skills 
 </p>
 </details>
 
+<details open>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmedabdelghany11&show_icons=true&theme=radical&count_private=true" alt="Ahmedabdelghany11" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdelghany11&layout=compact&theme=radical" alt="Ahmedabdelghany11" height="165">
+</p>
+</details>
