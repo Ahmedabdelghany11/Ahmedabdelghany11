@@ -66,7 +66,7 @@ I am always seeking for every opportunity that can help me to improve my skills 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Pusher](https://img.shields.io/badge/Pusher-0F0C5A?style=for-the-badge&logo=pusher&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 </details>
 
