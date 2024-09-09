@@ -24,7 +24,7 @@ I am always seeking for every opportunity that can help me to improve my skills 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AHMEDABDELGHANY01" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-abdelghany-276051279/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ahmed-abdelghany-276051279" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abdelghany-276051279" height="30" width="40" />
   </a>
   <a href="https://wa.me/+201060170367" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+201060170367" height="30" width="40" />
