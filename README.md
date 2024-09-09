@@ -82,3 +82,12 @@ I am always seeking for every opportunity that can help me to improve my skills 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdelghany11&theme=radical&hide_border=true" alt="Ahmedabdelghany11" width="420"/>
 </p>
 </details>
+
+<details open>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmedabdelghany11&theme=radical&no-frame=true&no-bg=true" alt="Ahmedabdelghany11" />
+</p>
+</details>
+
