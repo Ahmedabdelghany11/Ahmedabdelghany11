@@ -71,3 +71,14 @@ I am always seeking for every opportunity that can help me to improve my skills 
 </details>
 
 ---
+<br>
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+<br>
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdelghany11&theme=radical&hide_border=true" alt="Ahmedabdelghany11" width="420"/>
+</p>
+</details>
