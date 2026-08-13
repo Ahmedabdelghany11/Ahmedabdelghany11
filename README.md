@@ -26,7 +26,7 @@ I specialize in building scalable, responsive interfaces, integrating REST APIs,
   <a href="https://www.linkedin.com/in/ahmed-abdelghany-276051279/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abdelghany-276051279" height="30" width="40" />
   </a>
-  <a href="https://wa.me/+201060170367" target="blank">
+  <a href="https://wa.me/+971544615067" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+201060170367" height="30" width="40" />
   </a>
 </p>
