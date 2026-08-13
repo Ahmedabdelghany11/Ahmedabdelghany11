@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelghany</h1>
-<h3 align="center">A Passionate React Frontend Developer with 1+ Year of Experience</h3>
+<h3 align="center">Frontend Developer | React.js | TypeScript</h3>
 
 ---
 
 
 ### About Me
 
-I'm Ahmed Abdelghany, A React junior Frontend Developer using React.js. Have a bachelor's degree in physics and computer science from Minufiyah University. I have very good skills in Front-End Development in general, and especially in Responsive Web Designs, JavaScript, and its library React. Have completed many online courses and certificates to improve my skills in web development field.
+I'm Ahmed Abdelghany, A Frontend Developer using React.js. Have a bachelor's degree in physics and computer science from Minufiyah University, who is focused on building production-ready web applications with React.js, TypeScript, Redux Toolkit, and React Query.
 
-I am always seeking for every opportunity that can help me to improve my skills and increase my knowledge and experience, to reach the next level in my career and achieve my goals.
+I specialize in building scalable, responsive interfaces, integrating REST APIs, managing complex application state, and optimizing frontend performance.
 
-- 👨🏻‍💻 I’m currently working as React Frontend Developer at Nami.tech company.
+- 👨🏻‍💻 I’m currently working as React Frontend Developer.
 - 🌱 As always exploring more advanced React Ecosystem techniques to get the next levels.
 - 💼 I’m seeking for opportunities to contribute to impactful projects and grow as a developer.
 - 📫 How to reach me *ahmed.abdelghany1211@gmail.com*
